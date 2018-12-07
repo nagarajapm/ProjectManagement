@@ -1,0 +1,6 @@
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Test\bin\Debug\ProjectManagement.Test.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Test\bin\Debug\ProjectManagement.Test.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Test\obj\Debug\ProjectManagement.Test.dll
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Test\obj\Debug\ProjectManagement.Test.pdb
+D:\Full Stack Developer\ProjectManagement\ProjectManagement.Test\obj\Debug\ProjectManagement.Test.csprojResolveAssemblyReference.cache
